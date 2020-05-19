@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Lab08_Styles.MainPage">
+    <StackLayout>
+
+        <StackLayout>
+            <Button x:Name="Item1" Text="ClassDemo" BackgroundColor="#536DFE" />
+            <Button x:Name="Item2" Text="DynamicCode" BackgroundColor="#536DFE" />
+            <Button x:Name="Item3" Text="DynamicDemo" BackgroundColor="#536DFE" />
+            <Button x:Name="Item4" Text="ExplicitCode" BackgroundColor="#536DFE" />
+            <Button x:Name="Item5" Text="ExplicitControlCode" BackgroundColor="#536DFE" />
+            <Button x:Name="Item6" Text="ExplicitControlDemo" BackgroundColor="#536DFE" />
+            <Button x:Name="Item7" Text="ExplicitDemo" BackgroundColor="#536DFE" />
+            <Button x:Name="Item8" Text="ExplicitCode" BackgroundColor="#536DFE" />
+            <Button x:Name="Item9" Text="GlobalDemo" BackgroundColor="#536DFE" />
+            <Button x:Name="Item10" Text="ImplicitCode" BackgroundColor="#536DFE" />
+            <Button x:Name="Item11" Text="ImplicitControlDemo" BackgroundColor="#536DFE" />
+            <Button x:Name="Item12" Text="ImplicitDemo" BackgroundColor="#536DFE" />
+            <Button x:Name="Item13" Text="InheritanceCode" BackgroundColor="#536DFE" />
+            <Button x:Name="Item14" Text="InheritanceDemo" BackgroundColor="#536DFE" />
+
+        </StackLayout>
+    </StackLayout>
+
+</ContentPage>
