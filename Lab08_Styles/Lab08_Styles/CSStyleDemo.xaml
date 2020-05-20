@@ -8,9 +8,12 @@
     <ContentPage.Resources>
         <StyleSheet Source="Styles/main.css"></StyleSheet>
     </ContentPage.Resources>
-    <ContentPage.Content>
-        <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!" StyleClass="header"/>
+    <StackLayout StyleClass="group">
+        <Label Text="CSS Example" StyleClass="title"></Label>
+        <StackLayout Orientation="Vertical">
+            <Entry Text="User" ></Entry>
+            <Entry Text="Password" ></Entry>
+            <Button Text="Style 1" StyleClass="button" ></Button>
         </StackLayout>
-    </ContentPage.Content>
+    </StackLayout>
 </ContentPage>

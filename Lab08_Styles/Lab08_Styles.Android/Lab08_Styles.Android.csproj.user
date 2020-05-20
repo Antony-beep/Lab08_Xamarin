@@ -3,5 +3,6 @@
   <PropertyGroup>
     <SelectedDevice>HUAWEI CAM-L03</SelectedDevice>
     <DefaultDevice>pixel_3a_xl_pie_9_0_-_api_28</DefaultDevice>
+    <AndroidDesignerPreferredTheme>Theme.AppCompat.Light.NoActionBar</AndroidDesignerPreferredTheme>
   </PropertyGroup>
 </Project>

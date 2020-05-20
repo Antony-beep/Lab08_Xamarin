@@ -1,9 +1,21 @@
-﻿﻿#Content-Page {
-    background-color: beige;
+﻿
+
+.title {   
+
+    text-align: center;
+    color: darkmagenta;
 }
 
-.header {
-    font-size: large;
+stacklayout.group {
+    background-color: cornflowerblue;
+}
+
+.button {
+    background-color: black;
+    color: white;
+}
+
+entry {
     text-align: center;
-    margin-bottom: 20;
+    color: green;
 }
