@@ -1,21 +1,23 @@
 ﻿
 
 .title {   
-
     text-align: center;
     color: darkmagenta;
+    font-size: 32;
 }
 
 stacklayout.group {
-    background-color: cornflowerblue;
+    background-color: azure;
+    padding: 16;
 }
 
 .button {
     background-color: black;
     color: white;
+    border-radius: 25;
 }
 
 entry {
     text-align: center;
-    color: green;
+    color: darkgoldenrod;
 }
