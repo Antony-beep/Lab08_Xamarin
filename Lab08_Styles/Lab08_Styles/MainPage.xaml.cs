@@ -72,6 +72,10 @@ namespace Lab08_Styles
             {
                 await Navigation.PushAsync(new InheritanceDemo());
             };
+            Item15.Clicked += async (sender, e) =>
+            {
+                await Navigation.PushAsync(new CSStyleDemo());
+            };
         }
     }
 }

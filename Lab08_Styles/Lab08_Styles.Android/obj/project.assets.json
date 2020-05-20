@@ -1969,24 +1969,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\anton\\.nuget\\packages\\": {},
+    "C:\\Users\\william\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\anton\\source\\repos\\Lab08_Styles\\Lab08_Styles\\Lab08_Styles.Android\\Lab08_Styles.Android.csproj",
+      "projectUniqueName": "C:\\Users\\william\\source\\repos\\Lab08_Xamarin\\Lab08_Styles\\Lab08_Styles.Android\\Lab08_Styles.Android.csproj",
       "projectName": "Lab08_Styles.Android",
-      "projectPath": "C:\\Users\\anton\\source\\repos\\Lab08_Styles\\Lab08_Styles\\Lab08_Styles.Android\\Lab08_Styles.Android.csproj",
-      "packagesPath": "C:\\Users\\anton\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\anton\\source\\repos\\Lab08_Styles\\Lab08_Styles\\Lab08_Styles.Android\\obj\\",
+      "projectPath": "C:\\Users\\william\\source\\repos\\Lab08_Xamarin\\Lab08_Styles\\Lab08_Styles.Android\\Lab08_Styles.Android.csproj",
+      "packagesPath": "C:\\Users\\william\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\william\\source\\repos\\Lab08_Xamarin\\Lab08_Styles\\Lab08_Styles.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\anton\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\william\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -2000,8 +2000,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\Users\\anton\\source\\repos\\Lab08_Styles\\Lab08_Styles\\Lab08_Styles\\Lab08_Styles.csproj": {
-              "projectPath": "C:\\Users\\anton\\source\\repos\\Lab08_Styles\\Lab08_Styles\\Lab08_Styles\\Lab08_Styles.csproj"
+            "C:\\Users\\william\\source\\repos\\Lab08_Xamarin\\Lab08_Styles\\Lab08_Styles\\Lab08_Styles.csproj": {
+              "projectPath": "C:\\Users\\william\\source\\repos\\Lab08_Xamarin\\Lab08_Styles\\Lab08_Styles\\Lab08_Styles.csproj"
             }
           }
         }
